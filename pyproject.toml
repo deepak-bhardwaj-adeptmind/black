@@ -26,7 +26,7 @@ preview = true
 # NOTE: You don't need this in your own Black configuration.
 
 [build-system]
-requires = ["hatchling>=0.8.0", "hatch-vcs", "hatch-fancy-pypi-readme"]
+requires = ["hatchling>=0.8.0", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
